@@ -1,0 +1,75 @@
+body {
+  text-align: center;
+  background-color:#f9ed69;
+}
+
+h1 {
+  font-size: 5rem;
+  color: #f73859;
+  font-family: "Arvo", cursive;
+  text-shadow: 3px 0 #DA0463;
+
+}
+
+footer {
+  color: #f73859;
+  font-family: sans-serif;
+}
+
+.w {
+  background-image: url("images/Happy.jpeg");
+}
+
+.a {
+  background-image: url("images/New.jpeg");
+}
+
+.s {
+  background-image: url("images/Year.jpeg");
+}
+
+.d {
+  background-image: url("images/two.jpeg");
+}
+
+.j {
+  background-image: url("images/zero.jpeg");
+}
+
+.k {
+  background-image: url("images/ttwo.jpeg");
+}
+
+.l {
+  background-image: url("images/one.jpeg");
+}
+
+.set {
+  margin: 10% auto;
+}
+
+.pressed {
+  box-shadow: 0 3px 4px 0 #DBEDF3;
+  opacity: 0.5;
+}
+
+.red {
+  color: red;
+}
+
+.drum {
+  outline: none;
+  border: 10px solid #404B69;
+  font-size: 0.1rem;
+  font-family: 'Arvo', cursive;
+  line-height: 2;
+  font-weight: 5;
+  color: #f50a0a;
+  border-radius: 15px;
+  display:inline-block ;
+  width: 150px;
+  height: 150px;
+  text-align: right;
+  margin: 10px;
+  background-color: white;
+}
